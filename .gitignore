@@ -1,0 +1,7 @@
+#files to ignore
+
+config.py
+features.csv
+track_ids_clusters.csv
+src/__pycache__
+.vscode
